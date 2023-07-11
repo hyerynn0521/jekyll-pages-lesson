@@ -1,5 +1,10 @@
-# About
+---
+layout: default
+---
+
 {% include navigation.html %}
+# About
+
 
 ## Project
 
