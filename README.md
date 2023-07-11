@@ -21,3 +21,14 @@ break
 
 Hard line  
 break
+
+## Another Second Level Heading
+[This includes a link]([url](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
+~~Strikethrough~~ Text
+
+## Third Level Heading
+1. Hello
+2. world
+3. this is numbered list  
+![The Carpentries Logo](https://raw.githubusercontent.com/carpentries/carpentries.org/main/images/TheCarpentries-opengraph.png "The Carpentries")
+
