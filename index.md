@@ -2,6 +2,10 @@
 lesson-example: "https://carpentries.github.io/lesson-example/"
 ---
 
+{% include navigation.html %}
+             
+ # Building Websites in GitHub
+
 # Building Websites in GitHub
 ## Description
 {{ site.description }}
