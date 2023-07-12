@@ -18,5 +18,5 @@ team_members:
     start_date: "2017-12-01"
   -
     name: "Alice Dauncey"
-    role: editor
+    role: developer
     start_date: "2020-09-15"
