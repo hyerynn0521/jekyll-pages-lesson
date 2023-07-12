@@ -5,9 +5,9 @@ twitter: "https://twitter.com/thecarpentries"
 
 team_members:
   -
-    name: "Hyerin Lee"
+    name: "Tom Cat"
     role: "project lead"
-    start_date: "2023-07-09"
+    start_date: "2020-10-01"
   -
     name: "Jane Smith"
     role: maintainer
@@ -16,3 +16,7 @@ team_members:
     name: "Albert Hamilton"
     role: editor
     start_date: "2017-12-01"
+  -
+    name: "Alice Dauncey"
+    role: editor
+    start_date: "2020-09-15"
