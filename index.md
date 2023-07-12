@@ -15,4 +15,4 @@ Have any questions about what we do? [We'd love to hear from you!](mailto:{{ sit
 
 [Here is an example of a lesson]({{ page.lesson-example }}).
 
-{{ include blog.html }}
+{% include blog.html %}
