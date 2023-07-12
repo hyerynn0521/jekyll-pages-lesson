@@ -15,8 +15,4 @@ Have any questions about what we do? [We'd love to hear from you!](mailto:{{ sit
 
 [Here is an example of a lesson]({{ page.lesson-example }}).
 
-## Blog Posts
-
-{% for post in site.blogposts %}
-- {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url | relative_url }}) by {{ post.author }}
-{% endfor %}
+{{ include blog.html }}
